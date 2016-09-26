@@ -1,0 +1,74 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+
+}.flaticon-asp2:before {
+	content: "\e000";
+}
+.flaticon-business133:before {
+	content: "\e001";
+}
+.flaticon-folder232:before {
+	content: "\e002";
+}
+.flaticon-github17:before {
+	content: "\e003";
+}
+.flaticon-github6:before {
+	content: "\e004";
+}
+.flaticon-google116:before {
+	content: "\e005";
+}
+.flaticon-home168:before {
+	content: "\e006";
+}
+.flaticon-html3:before {
+	content: "\e007";
+}
+.flaticon-java7:before {
+	content: "\e008";
+}
+.flaticon-jquery:before {
+	content: "\e009";
+}
+.flaticon-linkedin12:before {
+	content: "\e00a";
+}
+.flaticon-logotype131:before {
+	content: "\e00b";
+}
+.flaticon-logotype3:before {
+	content: "\e00c";
+}
+.flaticon-love67:before {
+	content: "\e00d";
+	font-size: 40px;
+}
+.flaticon-sql4:before {
+	content: "\e00e";
+}
+.flaticon-team2:before {
+	content: "\e00f";
+}
+.flaticon-telephone34:before {
+	content: "\e010";
+}
+.flaticon-user2:before {
+	content: "\e011";
+}
+.flaticon-xing7:before {
+	content: "\e012";
+}
