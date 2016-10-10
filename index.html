@@ -15,6 +15,7 @@
     <link href="assets/flaticon/flaticon.css" rel="stylesheet">
     
     <!-- compiled CSS -->
+    <link rel="stylesheet" type="text/css" href="vendor/angular-github-repo/assets/base.css" />
     <link rel="stylesheet" type="text/css" href="assets/CV-1.0.0.css" />
 
     <!-- compiled JavaScript -->
@@ -24,7 +25,7 @@
   <body>
     <div class="container">
 	<div class="row">
-      <div class="navbar navbar-default">
+      <nav class="navbar navbar-default">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" ng-init="menuCollapsed = true"
             ng-click="menuCollapsed = ! menuCollapsed">
@@ -66,7 +67,7 @@
           </ul>
           <button id="langButton" ng-click='switchLang()' type="button" class="btn btn-default navbar-btn navbar-right">{{ currentLanguage | uppercase}}</button>
         </div>
-      </div>
+      </nav>
 	  </div>
     </div>
 
